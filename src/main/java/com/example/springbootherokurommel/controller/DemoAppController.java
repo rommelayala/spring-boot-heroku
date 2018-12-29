@@ -14,9 +14,9 @@ public class DemoAppController {
     }
 
 
-    @RequestMapping("/api")
+/*    @RequestMapping("/api")
     @ResponseBody
     String apiDemo() {
         return "Hello api!!";
-    }
+    }*/
 }
